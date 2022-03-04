@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+.card-header{
+    text-align: center;
+    background-color: rgb(49, 45, 45);
+    font-family: 'Lobster', cursive;
+    color: white;
+}
